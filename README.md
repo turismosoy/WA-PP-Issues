@@ -22,3 +22,6 @@ Feature Requests should include the following:
 - [ ] If possible feature screenshots
 
 Please note this repo is not for Ad Removal issues. If you are having ad removal issues please contact me at support@unlimapps.com
+
+
+X2 speed when listening to voice messages, pls.
